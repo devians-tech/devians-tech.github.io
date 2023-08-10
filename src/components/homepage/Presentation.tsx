@@ -20,9 +20,9 @@ export default function Presentation() {
             alt="arrow-down"
           />
           <div className="w-3/5 flex flex-col gap-2">
-            <p className="text-3xl">Somos seus desenvolvedores</p>
-            <p className="text-6xl">Seu Sucesso, Nosso <span className="text-second-color">Código</span>...</p>
-            <p className="text-xs">Porque o seu Sucesso é Nosso</p>
+            <p className="text-3xl">Desenvolvedores de software a seu dispor</p>
+            <p className="text-6xl">Seu sucesso, nosso <span className="text-second-color">código</span>!</p>
+
           </div>
         </div>
       </section>
